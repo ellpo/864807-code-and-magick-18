@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Elya Popova](https://up.htmlacademy.ru/javascript/18/user/864807).
-* Наставник: `Keksobot`.
+* Наставник: `Keksobot__`.
 
 ---
 
